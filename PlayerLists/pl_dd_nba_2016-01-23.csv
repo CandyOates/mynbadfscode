@@ -1,0 +1,430 @@
+Player ID,Position,Player Name,Team,Opponent,Salary,PPG
+280587,C,Al Horford,Hawks,Suns,13150,32.2
+280587,PF,Al Horford,Hawks,Suns,13150,32.2
+398043,PG,Jeff Teague,Hawks,Suns,11400,27.1
+58293,SG,Kyle Korver,Hawks,Suns,8550,19.4
+58293,SF,Kyle Korver,Hawks,Suns,8550,19.4
+329187,SG,Thabo Sefolosha,Hawks,Suns,7100,18.1
+329187,SF,Thabo Sefolosha,Hawks,Suns,7100,18.1
+393436,C,Tiago Splitter,Hawks,Suns,6450,11.8
+237675,C,Paul Millsap,Hawks,Suns,16950,39.5
+237675,PF,Paul Millsap,Hawks,Suns,16950,39.5
+477669,PG,Shelvin Mack,Hawks,Suns,5000,8.5
+398034,PF,Mike Scott,Hawks,Suns,5150,11.8
+410764,SG,Kent Bazemore,Hawks,Suns,8000,25.0
+410764,SF,Kent Bazemore,Hawks,Suns,8000,25.0
+395365,SG,Justin Holiday,Hawks,Suns,5000,5.4
+395365,SF,Justin Holiday,Hawks,Suns,5000,5.4
+739958,PG,Dennis Schroder,Hawks,Suns,9350,22.0
+551771,SG,Tim Hardaway Jr.,Hawks,Suns,5000,8.1
+551771,SF,Tim Hardaway Jr.,Hawks,Suns,5000,8.1
+520388,C,Mike Muscala,Hawks,Suns,5000,8.4
+520388,PF,Mike Muscala,Hawks,Suns,5000,8.4
+830651,C,Walter Tavares,Hawks,Suns,5000,6.6
+504905,SG,Lamar Patterson,Hawks,Suns,5000,6.9
+513607,PG,Avery Bradley,Celtics,76ers,10150,24.0
+513607,SG,Avery Bradley,Celtics,76ers,10150,24.0
+503807,PF,Jonas Jerebko,Celtics,76ers,5000,9.1
+503807,SF,Jonas Jerebko,Celtics,76ers,5000,9.1
+65840,C,David Lee,Celtics,76ers,7350,15.3
+65840,PF,David Lee,Celtics,76ers,7350,15.3
+398068,SG,Evan Turner,Celtics,76ers,8550,20.9
+398068,SF,Evan Turner,Celtics,76ers,8550,20.9
+457605,PG,Isaiah Thomas,Celtics,76ers,14450,36.4
+292407,C,Amir Johnson,Celtics,76ers,8900,21.0
+292407,PF,Amir Johnson,Celtics,76ers,8900,21.0
+462461,C,Tyler Zeller,Celtics,76ers,5000,7.2
+462461,PF,Tyler Zeller,Celtics,76ers,5000,7.2
+552403,C,Jared Sullinger,Celtics,76ers,10150,26.0
+552403,PF,Jared Sullinger,Celtics,76ers,10150,26.0
+552381,PF,Jae Crowder,Celtics,76ers,11700,28.1
+552381,SF,Jae Crowder,Celtics,76ers,11700,28.1
+514882,C,Kelly Olynyk,Celtics,76ers,9050,20.8
+697132,PG,Marcus Smart,Celtics,76ers,10000,21.4
+786406,SG,James Young,Celtics,76ers,5000,3.7
+786293,PG,Terry Rozier,Celtics,76ers,5000,3.1
+691716,SG,R.J. Hunter,Celtics,76ers,5000,6.6
+745825,PF,Jordan Mickey,Celtics,76ers,5000,4.7
+263884,PF,Marvin Williams,Hornets,Knicks,9400,23.6
+263884,SF,Marvin Williams,Hornets,Knicks,9400,23.6
+462980,PG,Kemba Walker,Hornets,Knicks,15500,36.2
+340730,PG,Jeremy Lin,Hornets,Knicks,8900,21.8
+340730,SG,Jeremy Lin,Hornets,Knicks,8900,21.8
+295923,C,Tyler Hansbrough,Hornets,Knicks,5000,5.5
+295923,PF,Tyler Hansbrough,Hornets,Knicks,5000,5.5
+329824,C,Spencer Hawes,Hornets,Knicks,5200,14.2
+329824,PF,Spencer Hawes,Hornets,Knicks,5200,14.2
+456451,SG,Nicolas Batum,Hornets,Knicks,12550,32.9
+456451,SF,Nicolas Batum,Hornets,Knicks,12550,32.9
+253995,C,Al Jefferson,Hornets,Knicks,9900,24.4
+253995,PF,Al Jefferson,Hornets,Knicks,9900,24.4
+603095,SF,Michael Kidd-Gilchrist,Hornets,Knicks,5000,0.0
+552980,SG,Jeremy Lamb,Hornets,Knicks,7750,20.0
+552980,SF,Jeremy Lamb,Hornets,Knicks,7750,20.0
+263565,PG,Brian Roberts,Hornets,Knicks,5000,6.8
+263565,SG,Brian Roberts,Hornets,Knicks,5000,6.8
+602028,C,Cody Zeller,Hornets,Knicks,8350,19.4
+602028,PF,Cody Zeller,Hornets,Knicks,8350,19.4
+513526,PG,Troy Daniels,Hornets,Knicks,5000,7.5
+609567,SG,P.J. Hairston,Hornets,Knicks,6900,11.6
+609567,SF,P.J. Hairston,Hornets,Knicks,6900,11.6
+606731,C,Frank Kaminsky,Hornets,Knicks,8200,16.3
+606731,PF,Frank Kaminsky,Hornets,Knicks,8200,16.3
+786407,PG,Aaron Harrison,Hornets,Knicks,5000,2.1
+57820,PG,Kirk Hinrich,Bulls,Cavaliers,5000,9.0
+57820,SG,Kirk Hinrich,Bulls,Cavaliers,5000,9.0
+398424,PG,E'Twaun Moore,Bulls,Cavaliers,5000,9.1
+398424,SG,E'Twaun Moore,Bulls,Cavaliers,5000,9.1
+263220,C,Joakim Noah,Bulls,Cavaliers,9950,22.5
+263220,PF,Joakim Noah,Bulls,Cavaliers,9950,22.5
+399612,PG,Derrick Rose,Bulls,Cavaliers,11300,25.3
+330057,C,Taj Gibson,Bulls,Cavaliers,8100,20.1
+330057,PF,Taj Gibson,Bulls,Cavaliers,8100,20.1
+599809,PF,Nikola Mirotic,Bulls,Cavaliers,9350,22.3
+599809,SF,Nikola Mirotic,Bulls,Cavaliers,9350,22.3
+458730,SG,Jimmy Butler,Bulls,Cavaliers,15500,38.1
+458730,SF,Jimmy Butler,Bulls,Cavaliers,15500,38.1
+168066,SG,Mike Dunleavy,Bulls,Cavaliers,5000,0.0
+168066,SF,Mike Dunleavy,Bulls,Cavaliers,5000,0.0
+3494,C,Pau Gasol,Bulls,Cavaliers,15500,38.1
+3494,PF,Pau Gasol,Bulls,Cavaliers,15500,38.1
+229726,PG,Aaron Brooks,Bulls,Cavaliers,6350,14.1
+550991,SG,Tony Snell,Bulls,Cavaliers,5200,12.4
+550991,SF,Tony Snell,Bulls,Cavaliers,5200,12.4
+554804,SF,Doug McDermott,Bulls,Cavaliers,5000,12.1
+550992,C,Cameron Bairstow,Bulls,Cavaliers,5000,2.6
+550992,PF,Cameron Bairstow,Bulls,Cavaliers,5000,2.6
+750703,C,Bobby Portis,Bulls,Cavaliers,5000,13.8
+750703,PF,Bobby Portis,Bulls,Cavaliers,5000,13.8
+839018,C,Cristiano Felicio,Bulls,Cavaliers,5000,1.5
+254009,C,Anderson Varejao,Cavaliers,Bulls,5000,6.8
+254009,PF,Anderson Varejao,Cavaliers,Bulls,5000,6.8
+551768,PG,Kyrie Irving,Cavaliers,Bulls,11400,25.4
+551768,SG,Kyrie Irving,Cavaliers,Bulls,11400,25.4
+552806,C,Tristan Thompson,Cavaliers,Bulls,9450,21.4
+552806,PF,Tristan Thompson,Cavaliers,Bulls,9450,21.4
+253997,SG,J.R. Smith,Cavaliers,Bulls,8850,20.9
+253997,SF,J.R. Smith,Cavaliers,Bulls,8850,20.9
+552679,C,Timofey Mozgov,Cavaliers,Bulls,6450,13.4
+65834,PG,Mo Williams,Cavaliers,Bulls,7150,19.0
+65834,SG,Mo Williams,Cavaliers,Bulls,7150,19.0
+214152,PF,LeBron James,Cavaliers,Bulls,17650,44.6
+214152,SF,LeBron James,Cavaliers,Bulls,17650,44.6
+58360,SG,James Jones,Cavaliers,Bulls,5000,6.5
+58360,SF,James Jones,Cavaliers,Bulls,5000,6.5
+395374,C,Kevin Love,Cavaliers,Bulls,14500,35.8
+395374,PF,Kevin Love,Cavaliers,Bulls,14500,35.8
+457186,SG,Iman Shumpert,Cavaliers,Bulls,6450,15.5
+457186,SF,Iman Shumpert,Cavaliers,Bulls,6450,15.5
+3504,SG,Richard Jefferson,Cavaliers,Bulls,5000,10.2
+3504,SF,Richard Jefferson,Cavaliers,Bulls,5000,10.2
+513339,PG,Jared Cunningham,Cavaliers,Bulls,5000,5.2
+513339,SG,Jared Cunningham,Cavaliers,Bulls,5000,5.2
+531447,PG,Matthew Dellavedova,Cavaliers,Bulls,7500,20.0
+531447,SG,Matthew Dellavedova,Cavaliers,Bulls,7500,20.0
+263245,C,Sasha Kaun,Cavaliers,Bulls,5000,3.1
+295941,SG,Wilson Chandler,Nuggets,Pistons,5000,0.0
+295941,SF,Wilson Chandler,Nuggets,Pistons,5000,0.0
+456448,SF,Danilo Gallinari,Nuggets,Pistons,12450,31.1
+411111,C,Kenneth Faried,Nuggets,Pistons,11750,26.6
+411111,PF,Kenneth Faried,Nuggets,Pistons,11750,26.6
+172692,PG,Randy Foye,Nuggets,Pistons,5700,12.4
+172692,SG,Randy Foye,Nuggets,Pistons,5700,12.4
+330347,C,Darrell Arthur,Nuggets,Pistons,7250,16.5
+330347,PF,Darrell Arthur,Nuggets,Pistons,7250,16.5
+3385,SG,Mike Miller,Nuggets,Pistons,5000,5.5
+3385,SF,Mike Miller,Nuggets,Pistons,5000,5.5
+61934,PG,Jameer Nelson,Nuggets,Pistons,8150,20.2
+400585,C,J.J. Hickson,Nuggets,Pistons,6500,16.0
+400585,PF,J.J. Hickson,Nuggets,Pistons,6500,16.0
+551760,SG,Will Barton,Nuggets,Pistons,10750,28.8
+551760,SF,Will Barton,Nuggets,Pistons,10750,28.8
+739968,C,Joffrey Lauvergne,Nuggets,Pistons,7300,17.7
+739968,PF,Joffrey Lauvergne,Nuggets,Pistons,7300,17.7
+830642,C,Jusuf Nurkic,Nuggets,Pistons,8000,15.8
+712593,SG,Gary Harris,Nuggets,Pistons,6850,18.9
+830650,C,Nikola Jokic,Nuggets,Pistons,7400,19.4
+511055,SG,Sean Kilpatrick,Nuggets,Pistons,5000,3.6
+877870,PG,Emmanuel Mudiay,Nuggets,Pistons,10000,23.5
+469089,PF,Marcus Morris,Pistons,Nuggets,9950,24.4
+469089,SF,Marcus Morris,Pistons,Nuggets,9950,24.4
+58258,PG,Steve Blake,Pistons,Nuggets,5000,11.5
+58258,SG,Steve Blake,Pistons,Nuggets,5000,11.5
+265013,C,Joel Anthony,Pistons,Nuggets,5000,3.2
+265013,PF,Joel Anthony,Pistons,Nuggets,5000,3.2
+292396,PF,Ersan Ilyasova,Pistons,Nuggets,10550,22.1
+292396,SF,Ersan Ilyasova,Pistons,Nuggets,10550,22.1
+478196,PG,Brandon Jennings,Pistons,Nuggets,6700,14.6
+229905,PF,Anthony Tolliver,Pistons,Nuggets,5000,12.5
+229905,SF,Anthony Tolliver,Pistons,Nuggets,5000,12.5
+462444,PG,Reggie Jackson,Pistons,Nuggets,13550,33.3
+462444,SG,Reggie Jackson,Pistons,Nuggets,13550,33.3
+329862,SG,Jodie Meeks,Pistons,Nuggets,5000,1.5
+614746,C,Andre Drummond,Pistons,Nuggets,17000,42.6
+614746,PF,Andre Drummond,Pistons,Nuggets,17000,42.6
+296379,C,Aron Baynes,Pistons,Nuggets,5550,12.0
+602730,SG,Kentavious Caldwell-Pope,Pistons,Nuggets,10400,24.9
+552335,SG,Reggie Bullock,Pistons,Nuggets,5000,1.1
+552335,SF,Reggie Bullock,Pistons,Nuggets,5000,1.1
+602411,PG,Spencer Dinwiddie,Pistons,Nuggets,5000,7.3
+844331,SF,Stanley Johnson,Pistons,Nuggets,7400,15.8
+601538,SG,Darrun Hilliard,Pistons,Nuggets,5000,3.7
+292393,C,Ian Mahinmi,Pacers,Kings,8350,21.9
+278110,PG,Rodney Stuckey,Pacers,Kings,7150,18.1
+278110,SG,Rodney Stuckey,Pacers,Kings,7150,18.1
+292397,PG,Monta Ellis,Pacers,Kings,11600,26.8
+292397,SG,Monta Ellis,Pacers,Kings,11600,26.8
+329711,C,Jordan Hill,Pacers,Kings,8250,20.2
+329711,PF,Jordan Hill,Pacers,Kings,8250,20.2
+329710,SG,Chase Budinger,Pacers,Kings,5000,10.3
+329710,SF,Chase Budinger,Pacers,Kings,5000,10.3
+277552,PG,George Hill,Pacers,Kings,10950,25.3
+277552,SG,George Hill,Pacers,Kings,10950,25.3
+469218,PF,Paul George,Pacers,Kings,16350,41.4
+469218,SF,Paul George,Pacers,Kings,16350,41.4
+402984,C,Lavoy Allen,Pacers,Kings,5850,14.3
+402984,PF,Lavoy Allen,Pacers,Kings,5850,14.3
+292394,SG,C.J. Miles,Pacers,Kings,9050,21.9
+292394,SF,C.J. Miles,Pacers,Kings,9050,21.9
+509169,SG,Solomon Hill,Pacers,Kings,5000,7.6
+509169,SF,Solomon Hill,Pacers,Kings,5000,7.6
+698979,SF,Glenn Robinson III,Pacers,Kings,5000,7.8
+508237,C,Shayne Whittington,Pacers,Kings,5000,3.6
+843762,C,Myles Turner,Pacers,Kings,7450,15.4
+609792,PF,Rakeem Christmas,Pacers,Kings,5000,0.0
+553721,PG,Joe Young,Pacers,Kings,5000,8.0
+553721,SG,Joe Young,Pacers,Kings,5000,8.0
+266369,C,Roy Hibbert,Lakers,Trail Blazers,8250,18.6
+3100,SG,Kobe Bryant,Lakers,Trail Blazers,10650,26.3
+3100,SF,Kobe Bryant,Lakers,Trail Blazers,10650,26.3
+3321,PF,Metta World Peace,Lakers,Trail Blazers,5000,11.3
+3321,SF,Metta World Peace,Lakers,Trail Blazers,5000,11.3
+229792,C,Brandon Bass,Lakers,Trail Blazers,8150,15.1
+229792,PF,Brandon Bass,Lakers,Trail Blazers,8150,15.1
+292401,PG,Lou Williams,Lakers,Trail Blazers,10300,24.3
+292401,SG,Lou Williams,Lakers,Trail Blazers,10300,24.3
+263228,SG,Nick Young,Lakers,Trail Blazers,5000,11.9
+263228,SF,Nick Young,Lakers,Trail Blazers,5000,11.9
+400617,C,Robert Sacre,Lakers,Trail Blazers,5000,8.0
+510784,PF,Ryan Kelly,Lakers,Trail Blazers,5150,11.9
+510784,SF,Ryan Kelly,Lakers,Trail Blazers,5150,11.9
+786412,PF,Julius Randle,Lakers,Trail Blazers,9700,25.3
+551975,PG,Jordan Clarkson,Lakers,Trail Blazers,10250,24.3
+551975,SG,Jordan Clarkson,Lakers,Trail Blazers,10250,24.3
+551761,C,Tarik Black,Lakers,Trail Blazers,5000,9.8
+551761,PF,Tarik Black,Lakers,Trail Blazers,5000,9.8
+844038,PG,D'Angelo Russell,Lakers,Trail Blazers,10000,23.1
+603640,PF,Larry Nance Jr.,Lakers,Trail Blazers,6100,14.8
+552305,SF,Anthony Brown,Lakers,Trail Blazers,5000,7.6
+553779,PG,Marcelo Huertas,Lakers,Trail Blazers,5000,8.4
+266367,SG,Jeff Green,Grizzlies,Timberwolves,8050,19.6
+266367,SF,Jeff Green,Grizzlies,Timberwolves,8050,19.6
+177575,C,Ryan Hollins,Grizzlies,Timberwolves,5000,6.0
+276755,SG,Courtney Lee,Grizzlies,Timberwolves,7400,17.4
+276755,SF,Courtney Lee,Grizzlies,Timberwolves,7400,17.4
+168051,SG,Matt Barnes,Grizzlies,Timberwolves,9050,21.4
+168051,SF,Matt Barnes,Grizzlies,Timberwolves,9050,21.4
+3512,C,Zach Randolph,Grizzlies,Timberwolves,10900,26.0
+3512,PF,Zach Randolph,Grizzlies,Timberwolves,10900,26.0
+172922,SG,Tony Allen,Grizzlies,Timberwolves,8250,16.1
+172922,SF,Tony Allen,Grizzlies,Timberwolves,8250,16.1
+329468,PG,Mike Conley,Grizzlies,Timberwolves,12000,29.4
+393441,C,Marc Gasol,Grizzlies,Timberwolves,15500,33.2
+296572,PG,Mario Chalmers,Grizzlies,Timberwolves,8950,20.3
+296572,SG,Mario Chalmers,Grizzlies,Timberwolves,8950,20.3
+329675,C,Brandan Wright,Grizzlies,Timberwolves,6400,13.9
+329675,PF,Brandan Wright,Grizzlies,Timberwolves,6400,13.9
+3230,SG,Vince Carter,Grizzlies,Timberwolves,5000,7.7
+3230,SF,Vince Carter,Grizzlies,Timberwolves,5000,7.7
+602135,SG,James Ennis,Grizzlies,Timberwolves,5000,3.3
+602135,SF,James Ennis,Grizzlies,Timberwolves,5000,3.3
+460833,PF,JaMychal Green,Grizzlies,Timberwolves,5000,11.6
+697719,SG,Jordan Adams,Grizzlies,Timberwolves,5000,8.8
+744245,PF,Jarell Martin,Grizzlies,Timberwolves,5000,0.5
+467468,C,Greg Monroe,Bucks,Pelicans,14400,33.9
+467468,PF,Greg Monroe,Bucks,Pelicans,14400,33.9
+395372,PG,O.J. Mayo,Bucks,Pelicans,6800,18.5
+395372,SG,O.J. Mayo,Bucks,Pelicans,6800,18.5
+332666,PG,Greivis Vasquez,Bucks,Pelicans,6800,16.3
+332666,SG,Greivis Vasquez,Bucks,Pelicans,6800,16.3
+395391,PG,Jerryd Bayless,Bucks,Pelicans,8050,22.1
+395391,SG,Jerryd Bayless,Bucks,Pelicans,8050,22.1
+502871,C,John Henson,Bucks,Pelicans,8100,16.5
+502871,PF,John Henson,Bucks,Pelicans,8100,16.5
+467271,C,Miles Plumlee,Bucks,Pelicans,5000,6.0
+467271,PF,Miles Plumlee,Bucks,Pelicans,5000,6.0
+512053,SG,Khris Middleton,Bucks,Pelicans,12850,29.6
+512053,SF,Khris Middleton,Bucks,Pelicans,12850,29.6
+174092,PF,Chris Copeland,Bucks,Pelicans,6600,3.6
+174092,SF,Chris Copeland,Bucks,Pelicans,6600,3.6
+609790,PG,Michael Carter-Williams,Bucks,Pelicans,11950,28.4
+739957,PF,Giannis Antetokounmpo,Bucks,Pelicans,14650,30.8
+739957,SF,Giannis Antetokounmpo,Bucks,Pelicans,14650,30.8
+756880,PF,Jabari Parker,Bucks,Pelicans,9200,19.7
+756880,SF,Jabari Parker,Bucks,Pelicans,9200,19.7
+786387,PG,Tyler Ennis,Bucks,Pelicans,5000,5.5
+830649,SF,Damien Inglis,Bucks,Pelicans,5000,2.9
+603100,PF,Johnny O'Bryant,Bucks,Pelicans,5000,8.5
+847010,SG,Rashad Vaughn,Bucks,Pelicans,6400,5.2
+2989,C,Kevin Garnett,Timberwolves,Grizzlies,5000,12.2
+2989,PF,Kevin Garnett,Timberwolves,Grizzlies,5000,12.2
+3313,PG,Andre Miller,Timberwolves,Grizzlies,5000,8.4
+3313,SG,Andre Miller,Timberwolves,Grizzlies,5000,8.4
+168029,PF,Tayshaun Prince,Timberwolves,Grizzlies,5000,7.8
+168029,SF,Tayshaun Prince,Timberwolves,Grizzlies,5000,7.8
+66903,SG,Kevin Martin,Timberwolves,Grizzlies,7450,15.6
+66903,SF,Kevin Martin,Timberwolves,Grizzlies,7450,15.6
+456452,C,Nikola Pekovic,Timberwolves,Grizzlies,5000,8.9
+503689,PG,Ricky Rubio,Timberwolves,Grizzlies,12250,30.5
+697722,SG,Shabazz Muhammad,Timberwolves,Grizzlies,6650,13.7
+697722,SF,Shabazz Muhammad,Timberwolves,Grizzlies,6650,13.7
+553158,C,Gorgui Dieng,Timberwolves,Grizzlies,9450,20.9
+553158,PF,Gorgui Dieng,Timberwolves,Grizzlies,9450,20.9
+794503,SG,Andrew Wiggins,Timberwolves,Grizzlies,12200,27.9
+794503,SF,Andrew Wiggins,Timberwolves,Grizzlies,12200,27.9
+743777,PG,Zach LaVine,Timberwolves,Grizzlies,7750,20.2
+743777,SG,Zach LaVine,Timberwolves,Grizzlies,7750,20.2
+553607,PF,Adreian Payne,Timberwolves,Grizzlies,5000,6.6
+833017,SG,Damjan Rudez,Timberwolves,Grizzlies,5000,3.6
+833017,SF,Damjan Rudez,Timberwolves,Grizzlies,5000,3.6
+837030,C,Karl-Anthony Towns,Timberwolves,Grizzlies,14150,33.5
+842297,PG,Tyus Jones,Timberwolves,Grizzlies,5000,7.7
+550431,PF,Nemanja Bjelica,Timberwolves,Grizzlies,6000,12.7
+295799,PF,Dante Cunningham,Pelicans,Bucks,6900,10.8
+295799,SF,Dante Cunningham,Pelicans,Bucks,6900,10.8
+456453,C,Omer Asik,Pelicans,Bucks,6650,11.2
+456453,PF,Omer Asik,Pelicans,Bucks,6650,11.2
+296605,SG,Alonzo Gee,Pelicans,Bucks,5050,10.7
+296605,SF,Alonzo Gee,Pelicans,Bucks,5050,10.7
+401085,SG,Eric Gordon,Pelicans,Bucks,10100,23.9
+410831,PG,Norris Cole,Pelicans,Bucks,7050,16.2
+410831,SG,Norris Cole,Pelicans,Bucks,7050,16.2
+329825,SG,Quincy Pondexter,Pelicans,Bucks,5000,0.0
+329825,SF,Quincy Pondexter,Pelicans,Bucks,5000,0.0
+262894,PG,Toney Douglas,Pelicans,Bucks,5000,11.5
+262894,SG,Toney Douglas,Pelicans,Bucks,5000,11.5
+214162,C,Kendrick Perkins,Pelicans,Bucks,5000,6.4
+329715,C,Ryan Anderson,Pelicans,Bucks,10700,27.1
+329715,PF,Ryan Anderson,Pelicans,Bucks,10700,27.1
+457576,PG,Jrue Holiday,Pelicans,Bucks,11250,25.5
+462071,SF,Luke Babbitt,Pelicans,Bucks,5000,8.4
+464841,PG,Tyreke Evans,Pelicans,Bucks,13400,34.5
+464841,SG,Tyreke Evans,Pelicans,Bucks,13400,34.5
+456449,C,Alexis Ajinca,Pelicans,Bucks,5350,11.7
+456449,PF,Alexis Ajinca,Pelicans,Bucks,5350,11.7
+603096,C,Anthony Davis,Pelicans,Bucks,18850,44.2
+603096,PF,Anthony Davis,Pelicans,Bucks,18850,44.2
+263229,SG,Arron Afflalo,Knicks,Hornets,9350,21.4
+263229,SF,Arron Afflalo,Knicks,Hornets,9350,21.4
+66027,PF,Louis Amundson,Knicks,Hornets,5000,5.6
+509168,PF,Derrick Williams,Knicks,Hornets,7600,14.4
+509168,SF,Derrick Williams,Knicks,Hornets,7600,14.4
+254006,SG,Sasha Vujacic,Knicks,Hornets,5000,7.0
+172890,PF,Carmelo Anthony,Knicks,Hornets,16500,37.8
+172890,SF,Carmelo Anthony,Knicks,Hornets,16500,37.8
+330050,C,Robin Lopez,Knicks,Hornets,9850,20.2
+296475,PG,Jose Calderon,Knicks,Hornets,8350,19.2
+550427,C,Kevin Seraphin,Knicks,Hornets,5000,9.2
+550427,PF,Kevin Seraphin,Knicks,Hornets,5000,9.2
+329890,SG,Lance Thomas,Knicks,Hornets,5200,13.2
+329890,SF,Lance Thomas,Knicks,Hornets,5200,13.2
+483372,C,Kyle O'Quinn,Knicks,Hornets,5300,12.2
+483372,PF,Kyle O'Quinn,Knicks,Hornets,5300,12.2
+707829,SF,Cleanthony Early,Knicks,Hornets,5000,1.5
+551321,PG,Langston Galloway,Knicks,Hornets,7500,16.8
+551321,SG,Langston Galloway,Knicks,Hornets,7500,16.8
+877869,C,Kristaps Porzingis,Knicks,Hornets,12200,30.2
+877869,PF,Kristaps Porzingis,Knicks,Hornets,12200,30.2
+552319,PG,Jerian Grant,Knicks,Hornets,5700,10.7
+329873,PG,Ish Smith,76ers,Celtics,10800,26.3
+263028,PF,Carl Landry,76ers,Celtics,5000,12.4
+263028,SF,Carl Landry,76ers,Celtics,5000,12.4
+3306,C,Elton Brand,76ers,Celtics,5000,0.0
+3306,PF,Elton Brand,76ers,Celtics,5000,0.0
+552334,PG,Kendall Marshall,76ers,Celtics,5000,9.6
+513268,SG,Hollis Thompson,76ers,Celtics,7150,16.0
+513268,SF,Hollis Thompson,76ers,Celtics,7150,16.0
+699947,C,Nerlens Noel,76ers,Celtics,12300,26.9
+699947,PF,Nerlens Noel,76ers,Celtics,12300,26.9
+509094,PG,Isaiah Canaan,76ers,Celtics,7900,17.8
+525052,PF,Robert Covington,76ers,Celtics,11000,24.0
+525052,SF,Robert Covington,76ers,Celtics,11000,24.0
+794508,C,Joel Embiid,76ers,Celtics,5000,0.0
+698985,SG,Nik Stauskas,76ers,Celtics,6700,14.4
+699826,PF,Jerami Grant,76ers,Celtics,8400,19.7
+699826,SF,Jerami Grant,76ers,Celtics,8400,19.7
+609848,SG,Jakarr Sampson,76ers,Celtics,5000,10.1
+609848,SF,Jakarr Sampson,76ers,Celtics,5000,10.1
+842301,C,Jahlil Okafor,76ers,Celtics,12200,28.8
+695069,PF,Richaun Holmes,76ers,Celtics,5000,11.4
+551787,PG,T.J. McConnell,76ers,Celtics,7400,19.6
+3493,C,Tyson Chandler,Suns,Hawks,9050,17.5
+553575,PG,Brandon Knight,Suns,Hawks,13350,33.2
+553575,SG,Brandon Knight,Suns,Hawks,13350,33.2
+509449,PG,Eric Bledsoe,Suns,Hawks,13950,37.4
+509449,SG,Eric Bledsoe,Suns,Hawks,13950,37.4
+398090,C,Jon Leuer,Suns,Hawks,6550,19.6
+398090,PF,Jon Leuer,Suns,Hawks,6550,19.6
+469085,C,Markieff Morris,Suns,Hawks,9150,18.9
+469085,PF,Markieff Morris,Suns,Hawks,9150,18.9
+332695,SG,Sonny Weems,Suns,Hawks,5000,5.6
+332695,SF,Sonny Weems,Suns,Hawks,5000,5.6
+76032,PG,Ronnie Price,Suns,Hawks,5000,10.6
+76032,SG,Ronnie Price,Suns,Hawks,5000,10.6
+639311,PF,Mirza Teletovic,Suns,Hawks,7250,17.0
+639311,SF,Mirza Teletovic,Suns,Hawks,7250,17.0
+229602,SG,P.J. Tucker,Suns,Hawks,8400,18.0
+229602,SF,P.J. Tucker,Suns,Hawks,8400,18.0
+616982,C,Alex Len,Suns,Hawks,7300,16.2
+699948,PG,Archie Goodwin,Suns,Hawks,5550,10.4
+699948,SG,Archie Goodwin,Suns,Hawks,5550,10.4
+502908,PG,Lorenzo Brown,Suns,Hawks,5000,6.8
+660085,SF,T.J. Warren,Suns,Hawks,7250,17.8
+511659,PF,Cory Jefferson,Suns,Hawks,5000,6.6
+845564,SG,Devin Booker,Suns,Hawks,6350,13.7
+329887,SG,Gerald Henderson,Trail Blazers,Lakers,5750,11.0
+329887,SF,Gerald Henderson,Trail Blazers,Lakers,5750,11.0
+62176,C,Chris Kaman,Trail Blazers,Lakers,5000,5.6
+62176,PF,Chris Kaman,Trail Blazers,Lakers,5000,5.6
+457688,PF,Al-Farouq Aminu,Trail Blazers,Lakers,10150,23.7
+457688,SF,Al-Farouq Aminu,Trail Blazers,Lakers,10150,23.7
+462458,C,Ed Davis,Trail Blazers,Lakers,8750,19.4
+462458,PF,Ed Davis,Trail Blazers,Lakers,8750,19.4
+463121,PG,Damian Lillard,Trail Blazers,Lakers,16400,41.5
+550131,C,Meyers Leonard,Trail Blazers,Lakers,8850,18.2
+550131,PF,Meyers Leonard,Trail Blazers,Lakers,8850,18.2
+609843,SF,Maurice Harkless,Trail Blazers,Lakers,5000,11.4
+522878,PG,C.J. McCollum,Trail Blazers,Lakers,12550,33.2
+522878,SG,C.J. McCollum,Trail Blazers,Lakers,12550,33.2
+510790,C,Mason Plumlee,Trail Blazers,Lakers,10500,24.7
+510790,PF,Mason Plumlee,Trail Blazers,Lakers,10500,24.7
+548610,PG,Allen Crabbe,Trail Blazers,Lakers,7400,18.0
+548610,SG,Allen Crabbe,Trail Blazers,Lakers,7400,18.0
+786397,PF,Noah Vonleh,Trail Blazers,Lakers,5000,9.7
+513606,PG,Tim Frazier,Trail Blazers,Lakers,5000,5.2
+601514,SG,Pat Connaughton,Trail Blazers,Lakers,5000,1.5
+601514,SF,Pat Connaughton,Trail Blazers,Lakers,5000,1.5
+879539,SF,Luis Montero,Trail Blazers,Lakers,5000,2.1
+843227,PF,Cliff Alexander,Trail Blazers,Lakers,5000,3.1
+262882,PG,Rajon Rondo,Kings,Pacers,15150,39.4
+503779,PF,Omri Casspi,Kings,Pacers,9750,25.2
+503779,SF,Omri Casspi,Kings,Pacers,9750,25.2
+168016,SF,Caron Butler,Kings,Pacers,5000,5.4
+398066,C,Kosta Koufos,Kings,Pacers,7200,17.1
+398066,PF,Kosta Koufos,Kings,Pacers,7200,17.1
+295432,PG,Darren Collison,Kings,Pacers,8450,22.6
+266358,PF,Rudy Gay,Kings,Pacers,13900,31.0
+266358,SF,Rudy Gay,Kings,Pacers,13900,31.0
+393434,SG,Marco Belinelli,Kings,Pacers,6350,16.8
+393434,SF,Marco Belinelli,Kings,Pacers,6350,16.8
+509450,C,DeMarcus Cousins,Kings,Pacers,20800,47.3
+509450,PF,DeMarcus Cousins,Kings,Pacers,20800,47.3
+399702,SG,James Anderson,Kings,Pacers,5000,4.3
+399702,SF,James Anderson,Kings,Pacers,5000,4.3
+469234,PF,Quincy Acy,Kings,Pacers,5000,8.5
+469234,SF,Quincy Acy,Kings,Pacers,5000,8.5
+604898,SG,Ben McLemore,Kings,Pacers,6250,13.0
+463135,PG,Seth Curry,Kings,Pacers,5000,6.3
+553542,PF,Eric Moreland,Kings,Pacers,5000,3.8
+699950,C,Willie Cauley-Stein,Kings,Pacers,7400,15.6
+551959,SF,Duje Dukan,Kings,Pacers,5000,0.0

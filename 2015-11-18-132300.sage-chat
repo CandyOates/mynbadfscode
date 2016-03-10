@@ -1,0 +1,21 @@
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"Here's a chatroom we can use to discuss code stuff."},"date":"2015-11-18T18:23:28.822Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"Ahh. Thanks for making the CSV."},"date":"2015-11-20T19:23:05.890Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"with the cutoffs"},"date":"2015-11-20T19:23:11.354Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"Just saw this, and finally looking through your notebooks."},"date":"2015-11-20T22:13:49.746Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"Good stuff. It will take some time to fully digest."},"date":"2015-11-20T22:13:58.138Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"Did you incorporate py-goldsberry into this project?"},"date":"2015-11-20T22:14:22.026Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"I'm not familiar with that. You definitely know a bunch of python that I don't know. For example, your nfl code had sea something something which is for visualizing statistics. I don't know that package."},"date":"2015-11-20T23:02:06.658Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"Seaborn is the shit! And so easy"},"date":"2015-11-20T23:06:39.040Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"http://stanford.edu/~mwaskom/software/seaborn/"},"date":"2015-11-20T23:06:39.783Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"py-goldsberry is a library I came across that is a Python API for stats.nba.com. Some of your code reminded me of it, but it might have been just because both mirror the names of the same API calls"},"date":"2015-11-20T23:07:23.783Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"https://github.com/bradleyfay/py-Goldsberry"},"date":"2015-11-20T23:08:01.094Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"Ah. I think I used py-nba... I that code and fixed some bugs etc and uploaded it."},"date":"2015-11-20T23:10:13.153Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"I'm working on the lineups now, btw"},"date":"2015-11-20T23:10:21.777Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"oh I think I saw that too, that must be why it looked familiar"},"date":"2015-11-20T23:13:06.869Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"you should submit a pull request to py-nba then"},"date":"2015-11-20T23:13:35.981Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"ok cool I already entered just in case but I'll put in the optimized lineups"},"date":"2015-11-20T23:13:57.373Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"are you using PuLP_playground? It's bugging on me..."},"date":"2015-11-20T23:25:45.545Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"I have a FD lineup now. Not in love with it, but seems solid"},"date":"2015-11-20T23:34:45.447Z"}
+{"sender_id":"e7d323cd-f47f-4f3b-bdb7-265717e2122d","event":"chat","payload":{"content":"There were more value plays with 3 games last night than with 11 tonight... haha"},"date":"2015-11-20T23:35:03.695Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"I did have it open, until just now"},"date":"2015-11-21T00:52:31.438Z"}
+{"sender_id":"eadab4d2-4047-40b9-b036-7562b90e8bff","event":"chat","payload":{"content":"didn't run any cells tho"},"date":"2015-11-21T00:52:35.751Z"}

@@ -1,0 +1,31 @@
+,champs,date,drtg,drtg_cdf,losses,nba_team_id,nerd,nerd_cdf,ortg,ortg_cdf,ovr_rank,pace,pace_cdf,playoffs,proj_l,proj_w,ptdiff,sd_differential,season,wins,abbrev,city,conference,division,espn_id,id,is_active,league_id,name,short,slug
+1,4.9,2015-11-21,102.9,0.412,5,1,58.1,0.669,105.3,0.655,11,96.6,0.492,93.8,34.8,47.2,2.2,9.06,2016,9,ATL,Atlanta ,E,SE,1,1,1,0,Atlanta Hawks,Atlanta,atlanta-hawks
+2,1.0,2015-11-21,97.6,0.061,5,2,60.9,0.819,104.9,0.615,8,99.1,0.864,71.5,38.9,43.1,4.8,13.12,2016,7,BOS,Boston ,E,A,2,2,1,0,Boston Celtics,Boston,boston-celtics
+4,3.4,2015-11-21,100.3,0.192,4,4,52.5,0.545,101.4,0.264,15,97.5,0.649,88.6,36.2,45.8,0.4,12.55,2016,8,CHI,Chicago ,E,C,4,4,1,0,Chicago Bulls,Chicago,chicago-bulls
+5,19.5,2015-11-21,101.5,0.284,3,5,71.5,0.881,108.7,0.902,3,93.6,0.087,99.4,30.5,51.5,6.3,9.32,2016,9,CLE,Cleveland ,E,C,5,5,1,0,Cleveland Cavaliers,Cleveland,cleveland-cavaliers
+6,3.4,2015-11-21,101.6,0.292,4,6,56.5,0.701,103.8,0.501,12,97.6,0.665,94.5,34.9,47.1,2.7,11.6,2016,9,DAL,Dallas ,W,SW,6,6,1,0,Dallas Mavericks,Dallas,dallas-mavericks
+7,0.0,2015-11-21,107.6,0.829,7,7,39.7,0.295,103.8,0.501,22,96.6,0.492,12.3,46.2,35.8,-3.1,15.03,2016,6,DEN,Denver ,W,NW,7,7,1,0,Denver Nuggets,Denver,denver-nuggets
+8,0.5,2015-11-21,99.6,0.148,5,8,52.9,0.589,100.3,0.179,13,96.0,0.387,60.4,40.1,41.9,1.1,10.64,2016,7,DET,Detroit ,E,C,8,8,1,0,Detroit Pistons,Detroit,detroit-pistons
+9,32.8,2015-11-21,99.7,0.154,0,9,93.3,0.987,114.2,0.997,1,99.3,0.882,100.0,24.4,57.6,12.1,11.21,2016,14,GS,Golden State,W,P,9,9,1,0,Golden State Warriors,Golden State,golden-state-warriors
+10,1.0,2015-11-21,107.0,0.788,8,10,27.9,0.105,99.9,0.153,25,98.6,0.809,63.0,40.2,41.8,-7.1,10.67,2016,5,HOU,Houston ,W,SW,10,10,1,0,Houston Rockets,Houston,houston-rockets
+11,0.2,2015-11-21,99.0,0.116,5,11,52.6,0.649,101.6,0.282,14,96.1,0.404,57.4,40.5,41.5,1.9,12.45,2016,7,IND,Indiana ,E,C,11,11,1,0,Indiana Pacers,Indiana,indiana-pacers
+12,6.0,2015-11-21,107.8,0.841,6,12,59.2,0.614,107.0,0.801,9,98.0,0.728,96.0,34.5,47.5,1.4,8.98,2016,6,LAC,Los Angeles,W,P,12,12,1,0,Los Angeles Clippers,LA Clippers,los-angeles-clippers
+13,0.0,2015-11-21,108.2,0.864,10,13,25.9,0.091,101.4,0.264,27,97.3,0.615,1.5,50.9,31.1,-7.5,9.25,2016,2,LAL,Los Angeles,W,P,13,13,1,0,Los Angeles Lakers,LA Lakers,los-angeles-lakers
+14,0.4,2015-11-21,106.7,0.766,6,14,27.0,0.194,101.4,0.264,26,94.4,0.158,70.4,39.5,42.5,-4.9,19.25,2016,7,MEM,Memphis ,W,SW,29,14,1,0,Memphis Grizzlies,Memphis,memphis-grizzlies
+15,2.0,2015-11-21,98.3,0.085,4,15,69.7,0.863,103.3,0.449,4,94.7,0.193,81.6,37.4,44.6,5.8,11.43,2016,7,MIA,Miami ,E,SE,14,15,1,0,Miami Heat,Miami,miami-heat
+16,0.0,2015-11-21,111.4,0.971,7,16,32.6,0.126,104.1,0.533,24,91.5,0.011,23.4,44.2,37.8,-6.4,13.4,2016,5,MIL,Milwaukee ,E,C,15,16,1,0,Milwaukee Bucks,Milwaukee,milwaukee-bucks
+17,0.0,2015-11-21,103.7,0.491,8,17,50.9,0.494,102.5,0.367,16,97.6,0.665,3.1,49.2,32.8,-0.3,10.02,2016,5,MIN,Minnesota ,W,NW,16,17,1,0,Minnesota Timberwolves,Minnesota,minnesota-timberwolves
+20,0.0,2015-11-21,102.8,0.402,6,20,48.9,0.51,103.7,0.491,18,94.8,0.205,6.5,47.5,34.6,0.0,10.13,2016,7,NY,New York,E,A,18,20,1,0,New York Knicks,New York,new-york-knicks
+21,6.4,2015-11-21,104.9,0.609,6,21,68.0,0.806,109.5,0.934,5,98.1,0.742,93.8,35.0,47.0,4.6,13.18,2016,7,OKC,Oklahoma City,W,NW,25,21,1,0,Oklahoma City Thunder,Oklahoma City,oklahoma-city-thunder
+22,0.0,2015-11-21,101.4,0.275,6,22,46.1,0.445,101.4,0.264,19,96.4,0.457,7.5,47.2,34.8,-0.9,7.22,2016,6,ORL,Orlando ,E,SE,19,22,1,0,Orlando Magic,Orlando,orlando-magic
+23,0.0,2015-11-21,107.8,0.841,13,23,8.3,0.007,92.6,0.002,30,97.2,0.598,0.0,58.7,23.3,-13.6,8.74,2016,0,PHI,Philadelphia ,E,A,20,23,1,0,Philadelphia 76ers,Philadelphia,philadelphia-76ers
+24,0.3,2015-11-21,100.9,0.235,5,24,49.5,0.581,105.6,0.683,17,100.1,0.939,61.5,40.6,41.5,0.9,15.46,2016,7,PHX,Phoenix ,W,P,21,24,1,0,Phoenix Suns,Phoenix,phoenix-suns
+25,0.1,2015-11-21,106.6,0.758,9,25,43.9,0.373,104.8,0.605,20,95.4,0.289,27.0,44.0,38.0,-2.0,13.24,2016,5,POR,Portland ,W,NW,22,25,1,0,Portland Trail Blazers,Portland,portland-trail-blazers
+26,0.0,2015-11-21,107.6,0.829,9,26,35.9,0.231,103.2,0.438,23,100.5,0.958,4.4,48.3,33.7,-4.2,10.89,2016,4,SAC,Sacramento ,W,P,23,26,1,0,Sacramento Kings,Sacramento,sacramento-kings
+27,11.7,2015-11-21,97.0,0.045,3,27,75.5,0.91,106.2,0.737,2,95.2,0.26,99.3,31.1,50.9,7.2,11.5,2016,9,SA,San Antonio,W,SW,24,27,1,0,San Antonio Spurs,San Antonio,san-antonio-spurs
+28,4.9,2015-11-21,102.8,0.402,6,28,61.9,0.734,107.0,0.801,6,95.0,0.231,93.1,35.3,46.7,3.3,11.35,2016,8,TOR,Toronto ,E,A,28,28,1,0,Toronto Raptors,Toronto,toronto-raptors
+29,0.6,2015-11-21,100.3,0.192,6,29,61.3,0.668,103.2,0.438,7,92.1,0.021,65.8,39.9,42.1,2.2,13.01,2016,6,UTAH,Utah ,W,NW,26,29,1,0,Utah Jazz,Utah,utah-jazz
+30,0.6,2015-11-21,105.8,0.692,4,30,41.0,0.425,103.7,0.491,21,100.7,0.965,60.5,40.1,41.9,-1.2,16.46,2016,5,WSH,Washington ,E,SE,27,30,1,0,Washington Wizards,Washington,washington-wizards
+35,0.2,2015-11-21,103.7,0.491,6,35,59.1,0.79,107.2,0.816,10,95.9,0.37,55.6,40.6,41.4,4.2,13.39,2016,7,CHA,Charlotte ,E,SE,3,35,1,0,Charlotte Hornets,Charlotte,charlotte-hornets
+37,0.0,2015-11-21,108.3,0.87,11,37,25.7,0.087,99.0,0.103,28,95.8,0.353,0.8,51.6,30.4,-7.6,9.71,2016,2,BKN,Brooklyn,E,A,17,37,1,0,Brooklyn Nets,Brooklyn,brooklyn-nets
+38,0.0,2015-11-21,111.0,0.964,11,38,21.5,0.088,103.0,0.418,29,97.6,0.665,7.4,47.6,34.4,-7.6,10.88,2016,2,NO,New Orleans,W,SW,3,38,1,0,New Orleans Pelicans,New Orleans,new-orleans-pelicans
